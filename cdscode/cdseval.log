@@ -1,0 +1,353 @@
+../cds_eval.c: LOG STARTED AT  Mon Nov 15 18:39:21 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ---------- FAILURE: Unable to print database -  database
+../cds_eval.c: ---------- FAILURE: Unable to unload database -  database
+../cds_eval.c: LOG STARTED AT  Mon Nov 15 18:40:10 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ---------- FAILURE: Unable to print database -  database
+../cds_eval.c: ---------- FAILURE: Unable to add record with key -  100
+../cds_eval.c: ---------- FAILURE: Unable to add record with key -  101
+../cds_eval.c: ---------- FAILURE: Unable to unload database -  database
+../cds_eval.c: LOG STARTED AT  Mon Nov 15 18:55:07 2010
+
+../cds_eval.c: ---------- FAILURE: Unable to create database -  database
+../cds_eval.c: ---------- FAILURE: Unable to unload database -  database
+../cds_eval.c: LOG STARTED AT  Mon Nov 15 23:27:03 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  TvÅ¿„ƒHvÅ¿TÊÉ
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  TvÅ¿„ƒHvÅ¿TÊÉ
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Mon Nov 15 23:29:42 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  Tºç¿„ƒHºç¿TzJ
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  Tºç¿„ƒHºç¿TzJ
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Mon Nov 15 23:47:34 2010
+
+../cds_eval.c: ---------- FAILURE: Unable to open database -  database
+../cds_eval.c: ---------- FAILURE: Unable to unload database -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 01:55:50 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  101
+../cds_eval.c: ---------- FAILURE: Unable to delete record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  102
+../cds_eval.c: ---------- FAILURE: Unable to select record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 02:18:29 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  gold100
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  card_number
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 02:43:22 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  100
+../cds_eval.c: ---------- FAILURE: Unable to select record with key -  gol100
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 10:58:05 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  102
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  103
+../cds_eval.c: ---------- FAILURE: Unable to select record with key -  gold100
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 11:34:05 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 11:47:07 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  gold100
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  gold101
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  card_number
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 12:00:56 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  card_number
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 12:01:50 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  card_type
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  holder_name
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 13:32:50 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  tech_support
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 13:35:21 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  tech_support
+../cds_eval.c: ---------- FAILURE: Unable to print database -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  tech_support
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 13:36:44 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  tech_support
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 13:40:57 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  tech_support
+../cds_eval.c: ---------- FAILURE: Unable to print database -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  10
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  102
+../cds_eval.c: ---------- FAILURE: Unable to select record with key -  ram
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  202
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  tech_support
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 13:45:40 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  103
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  102
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  202
+../cds_eval.c: ---------- FAILURE: Unable to select record with key -  203
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  cust_location
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  ref_num
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  prod_id
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  cust_name
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  cust_location
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  tech_support
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 16:22:43 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 16:40:55 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 16:47:48 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 16:52:17 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 17:07:22 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 17:12:20 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 17:13:26 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 17:28:19 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 17:30:10 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  102
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 17:30:41 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ---------- FAILURE: Unable to open database -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Tue Nov 16 17:31:45 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  auction
+../cds_eval.c: LOG STARTED AT  Thu Nov 18 10:04:11 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  tech_support
+../cds_eval.c: LOG STARTED AT  Thu Nov 18 10:06:03 2010
+
+../cds_eval.c: ---------- FAILURE: Unable to unload database -  
+../cds_eval.c: LOG STARTED AT  Thu Nov 18 10:22:41 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  auction
+../cds_eval.c: LOG STARTED AT  Fri Nov 19 12:36:47 2010
+
+../cds_eval.c: ---------- FAILURE: Unable to create database -  auction
+../cds_eval.c: ---------- FAILURE: Unable to unload database -  auction
+../cds_eval.c: LOG STARTED AT  Fri Nov 19 12:37:39 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  auction
+../cds_eval.c: ---------- FAILURE: Unable to print database -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  auction
+../cds_eval.c: LOG STARTED AT  Fri Nov 19 13:45:58 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  tech_support
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  tech_support
+../cds_eval.c: LOG STARTED AT  Fri Nov 19 15:14:25 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  auction
+../cds_eval.c: LOG STARTED AT  Fri Nov 19 15:38:08 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  gold
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  card_number
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  card_type
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  holder_name
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Fri Nov 19 15:40:12 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  database
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  database
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  card_number
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Fri Nov 19 15:41:13 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  database
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  holder_name
+../cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  card_number
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  database
+../cds_eval.c: LOG STARTED AT  Sat Nov 20 13:48:48 2010
+
+../cds_eval.c: ++++++++++ SUCCESS: Database created -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Database open -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Added record with key -  inserted
+../cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  100
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  600
+../cds_eval.c: ++++++++++ SUCCESS: Database printed -  auction
+../cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  auction
